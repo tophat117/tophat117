@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tophat117
-- 👀 I’m interested in ... python, c#, c++, and Iot projects
-- 🌱 I’m currently learning ... how to work with linux and Iot related stuff
+- 👀 I’m interested in ... c++, and arduino projects
+- 🌱 I’m currently learning ... how to work with arduino and vs code
 - 💞️ I’m looking to collaborate on ... nothing atm
 - 📫 How to reach me ... don't :}
 
